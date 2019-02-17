@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetHelpersAndAdditions", "DotNetHelpersAndAdditions\DotNetHelpersAndAdditions.csproj", "{D339D683-2E9E-40EE-89A5-FC694C4B11E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D339D683-2E9E-40EE-89A5-FC694C4B11E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D339D683-2E9E-40EE-89A5-FC694C4B11E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D339D683-2E9E-40EE-89A5-FC694C4B11E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D339D683-2E9E-40EE-89A5-FC694C4B11E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40CEE0DF-85D1-466C-ABC4-3D301E6C1DDB}
+	EndGlobalSection
+EndGlobal
